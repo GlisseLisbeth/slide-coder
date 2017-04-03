@@ -1,0 +1,52 @@
+*{
+  margin: 0 0;
+  background: beige;
+}
+
+body{
+  font-family: lato, droid serif, sans-serif;
+  font-size: 12px;
+}
+
+div{
+  position: relative;
+  float: left;
+  width: 400px;
+  height: 400px;
+}
+
+h1{
+  color: gold;
+  text-decoration-color: goldenrod;
+}
+
+h2{
+  color: slategray;
+  text-decoration-color: slategrey;
+}
+
+input{
+  position: absolute;
+  width: 20px;
+  margin: 5px;
+  padding: 2px;
+  border-radius: 2px 2px;
+  border-color: 1px solid lightcoral;
+  background: ; rgba(248, 131, 121,0.2);
+  color: darkorange;
+  font-size: 10px;
+}
+
+input[type="submit"]{
+  position: absolute;
+  color: antiquewhite;
+  font-size: 12px;
+  text-shadow:  2px 2px 2px 2px ;
+  
+}
+
+label{
+  color: lightcoral;
+}
+
+  
